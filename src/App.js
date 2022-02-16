@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Hello Mình là Tuần  mình chỉ test deloy
         </a>
       </header>
     </div>
