@@ -15,7 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Mình là Tuần  mình chỉ test deloy
+          <h1> Hello Mình là Tuần và Hậu  mình chỉ test deloy
+          Nhóm fixbugs bất diệt </h1>
+          
         </a>
       </header>
     </div>
