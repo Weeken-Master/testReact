@@ -27,7 +27,13 @@
     <title>React App</title>
   </head>
   <body>
-    
+    <!-- Messenger Plugin chat Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Plugin chat code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
     <script>
       var chatbox = document.getElementById('fb-customer-chat');
       chatbox.setAttribute("page_id", "100160565836618");
@@ -51,9 +57,8 @@
         fjs.parentNode.insertBefore(js, fjs);
       }(document, 'script', 'facebook-jssdk'));
     </script>
-   
+    <noscript>.</noscript>
     <div id="root"></div>
-         TUẦN-18CT4
-   
+    
   </body>
 </html>
